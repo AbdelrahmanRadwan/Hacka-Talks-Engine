@@ -1,0 +1,8 @@
+pandas==0.23.4
+spacy==2.0.12
+dateparser==0.7.0
+elasticsearch==6.3.1
+pyquery==1.4.0
+scrapy==1.5.1
+spacy_lookup==0.0.4
+w3lib==1.19.0
